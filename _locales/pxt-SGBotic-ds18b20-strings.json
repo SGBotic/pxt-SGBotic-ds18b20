@@ -1,0 +1,16 @@
+{
+  "SGBotic.DS18B20_output|block": "temperature(˚C)|%p",
+  "SGBotic.pin.pin0|block": "pin0",
+  "SGBotic.pin.pin11|block": "pin11",
+  "SGBotic.pin.pin12|block": "pin12",
+  "SGBotic.pin.pin13|block": "pin13",
+  "SGBotic.pin.pin14|block": "pin14",
+  "SGBotic.pin.pin15|block": "pin15",
+  "SGBotic.pin.pin16|block": "pin16",
+  "SGBotic.pin.pin1|block": "pin1",
+  "SGBotic.pin.pin2|block": "pin2",
+  "SGBotic.pin.pin5|block": "pin5",
+  "SGBotic.pin.pin8|block": "pin8",
+  "SGBotic|block": "SGBotic",
+  "{id:category}SGBotic": "SGBotic"
+}

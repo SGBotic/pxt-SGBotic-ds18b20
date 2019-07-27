@@ -1,0 +1,4 @@
+{
+  "SGBotic": "Makecode block for DS18B20 one-wire temperature sensor\n\nSGBotic blocks",
+  "SGBotic.pin": "Reads the temperature from the one-wire temperature sensor."
+}

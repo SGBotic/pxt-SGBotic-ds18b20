@@ -1,0 +1,20 @@
+{
+    "name": "pxt-SGBotic-ds18b20",
+    "version": "0.1",
+    "description": "Makdecode block for ds18b20 termperature sensor",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "ds18b20.ts",
+        "base.ts",
+        "ds18b20.cpp"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}
