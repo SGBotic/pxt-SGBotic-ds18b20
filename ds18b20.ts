@@ -40,6 +40,7 @@ namespace SGBotic {
         return 0
     }
     
+    //% subcategory=ds18b20
     //% weight=10 blockId="DS18B20_output" 
     //% block="temperature(˚C)|%p"
     export function DS18B20_output(p: pin): number {
